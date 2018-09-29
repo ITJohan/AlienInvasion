@@ -1,2 +1,2 @@
 # AlienInvasion
-A modded Space Invaders style game following the book Python Crash Course.
+A modded Space Invaders style game inspired by the book Python Crash Course.
